@@ -11,4 +11,4 @@ main.pyを実行すれば課題1から課題4の結果が出力される．matri
 課題3までは指示通りに標準ライブラリ以外を用いない．課題4ではnumpyを必要とする．
 
 ## Usage
-'''python main.py'''
+```python main.py```
